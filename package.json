@@ -1,0 +1,20 @@
+{
+  "name": "react-ts-hook-jira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderZhangZheng/React-TS-Hook-JIRA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderZhangZheng/React-TS-Hook-JIRA/issues"
+  },
+  "homepage": "https://github.com/coderZhangZheng/React-TS-Hook-JIRA#readme"
+}
